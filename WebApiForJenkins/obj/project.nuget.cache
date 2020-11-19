@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KhoZo/W6wwk6XEvJ7ZErxwt51Fhha8cJgVH8okhAKezR8Xuyqk6EMPo5VMkSM7AmMeLFjPRcQez9fv70Gun5IQ==",
+  "success": true,
+  "projectFilePath": "D:\\code\\WebApiForJenkins\\WebApiForJenkins\\WebApiForJenkins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yanwen\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
